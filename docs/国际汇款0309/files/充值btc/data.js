@@ -1,0 +1,202 @@
+﻿$axure.loadCurrentPage({
+  "url":"充值btc.html",
+  "generationDate":new Date(1457518083671.98),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"d6c5accc55ac46a68a895e3be640b059",
+    "type":"Axure:Page",
+    "name":"充值BTC",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"1f4cda2eeb144bc59ed5a10d63255329",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":50},
+            "size":{
+              "width":1024,
+              "height":700}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"948bcbe7f0574a0b92eb79d4f4093690",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":50,
+                  "y":50},
+                "size":{
+                  "width":1024,
+                  "height":700}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/充值btc/u0.png"}},
+{
+          "id":"df44de0e5c5740c79be46d3033af64ac",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":917,
+              "y":62},
+            "size":{
+              "width":140,
+              "height":63}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b5da1adc968b4981846efdc83ac1c657",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":917,
+                  "y":62},
+                "size":{
+                  "width":140,
+                  "height":63}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/购买/u2.png"}},
+{
+          "id":"cde191bf934346e0a22d6c6cfcaa7e06",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":950,
+              "y":75},
+            "size":{
+              "width":100,
+              "height":50},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2f1e7ee4582b4284a33617ee114f5d68",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":950,
+                  "y":75},
+                "size":{
+                  "width":100,
+                  "height":50},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/4_1资金管理/u6.png"}},
+{
+          "id":"7947555ba70547dc993977d754a87114",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"16px",
+            "fontWeight":"400",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":950,
+              "y":96},
+            "size":{
+              "width":99,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"84cfefa08a56485684d8588da3743e4c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"16px",
+                "fontWeight":"400",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":950,
+                  "y":96},
+                "size":{
+                  "width":99,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "1f4cda2eeb144bc59ed5a10d63255329":{
+      "scriptId":"u0"},
+    "948bcbe7f0574a0b92eb79d4f4093690":{
+      "scriptId":"u1"},
+    "df44de0e5c5740c79be46d3033af64ac":{
+      "scriptId":"u2"},
+    "b5da1adc968b4981846efdc83ac1c657":{
+      "scriptId":"u3"},
+    "cde191bf934346e0a22d6c6cfcaa7e06":{
+      "scriptId":"u4"},
+    "2f1e7ee4582b4284a33617ee114f5d68":{
+      "scriptId":"u5"},
+    "7947555ba70547dc993977d754a87114":{
+      "scriptId":"u6"},
+    "84cfefa08a56485684d8588da3743e4c":{
+      "scriptId":"u7"}}});

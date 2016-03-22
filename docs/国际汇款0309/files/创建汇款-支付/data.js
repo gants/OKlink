@@ -1,0 +1,151 @@
+﻿$axure.loadCurrentPage({
+  "url":"创建汇款-支付.html",
+  "generationDate":new Date(1457518083547.36),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"153cf55f76ad49ce99a4c3361ad0bee2",
+    "type":"Axure:Page",
+    "name":"创建汇款-支付",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"b6359ebdaeaf482e8d9a5ae23f10bb56",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":50},
+            "size":{
+              "width":800,
+              "height":890}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8e9b833ec2dd44cc93da20acc515a06b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":50,
+                  "y":50},
+                "size":{
+                  "width":800,
+                  "height":890}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/创建汇款-支付/u0.png"}},
+{
+          "id":"95b9b531e82a47dfbe26bb119fe8b08e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":1039},
+            "size":{
+              "width":360,
+              "height":231},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"906e90bd6f704cf78f411a0b2fc81e1b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":50,
+                  "y":1039},
+                "size":{
+                  "width":360,
+                  "height":231},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/创建汇款-ab信息/u0.png"}},
+{
+          "id":"2ac8578451fa4f2b8e738be54b420224",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'PingFang SC'",
+            "fontSize":"16px",
+            "location":{
+              "x":76,
+              "y":63},
+            "size":{
+              "width":330,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c69b0245ec9d4eef9d0d23c08001ca4a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'PingFang SC'",
+                "fontSize":"16px",
+                "location":{
+                  "x":76,
+                  "y":63},
+                "size":{
+                  "width":330,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "b6359ebdaeaf482e8d9a5ae23f10bb56":{
+      "scriptId":"u0"},
+    "8e9b833ec2dd44cc93da20acc515a06b":{
+      "scriptId":"u1"},
+    "95b9b531e82a47dfbe26bb119fe8b08e":{
+      "scriptId":"u2"},
+    "906e90bd6f704cf78f411a0b2fc81e1b":{
+      "scriptId":"u3"},
+    "2ac8578451fa4f2b8e738be54b420224":{
+      "scriptId":"u4"},
+    "c69b0245ec9d4eef9d0d23c08001ca4a":{
+      "scriptId":"u5"}}});
